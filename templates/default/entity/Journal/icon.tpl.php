@@ -1,1 +1,1 @@
-<i class="fa fa-newspaper-o"></i>
+<i class="fa fa-newspaper"></i>
